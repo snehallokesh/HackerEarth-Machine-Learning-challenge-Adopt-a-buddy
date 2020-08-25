@@ -20,5 +20,5 @@ We challenge you to build a predictive model that detects the type and breed of 
 
 ## LeaderBoard:
 ### Public LB: 8th Rank
-### Private LB: - 13th Rank
+### Private LB: - 
 [https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/]
